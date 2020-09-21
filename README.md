@@ -130,4 +130,4 @@ For those looking for an additional challenge, you will evaluate the number of b
 
 - - -
 
-© 2019 Trilogy Education Services
+<!-- © 2019 Trilogy Education Services -->
