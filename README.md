@@ -1,5 +1,7 @@
 # Excel Homework: Kickstart My Chart
 
+* Diego Gonzalez - [@dlg410](https://github.com/dlg410)
+
 ## Background
 
 Over $2 billion has been raised using the massively successful crowdfunding service, Kickstarter, but not every project has found success. Of the more than 300,000 projects launched on Kickstarter, only a third have made it through the funding process with a positive outcome.
@@ -122,9 +124,9 @@ For those looking for an additional challenge, you will evaluate the number of b
 
 * Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
 
-## Submission
-
-* To submit your homework, upload the solution and files to a GitHub repo, Dropbox, or Google Drive and submit the link to <https://bootcampspot.com/>.
+<!-- ## Submission -->
+<!--  -->
+<!-- * To submit your homework, upload the solution and files to a GitHub repo, Dropbox, or Google Drive and submit the link to <https://bootcampspot.com/>. -->
 
 - - -
 
